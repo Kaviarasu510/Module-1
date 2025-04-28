@@ -13,11 +13,11 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No- 212222040075
+# Name- KAVIYARASU K
 # Write your code here
 
-char = input("Enter a character: ")
+char = input()
 char_lower = char.lower()
 
 if char_lower in ['a', 'e', 'i', 'o', 'u']:
@@ -27,5 +27,7 @@ else:
 ```
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/2076f555-3680-4bd5-95de-7e654db711b9)
 
 ## RESULT
