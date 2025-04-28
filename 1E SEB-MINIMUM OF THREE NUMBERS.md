@@ -33,3 +33,5 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ![image](https://github.com/user-attachments/assets/b2d434f1-ef73-4f94-b410-69b691ee721b)
 
 ## RESULT
+
+Thus a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) was implemented and executed successfully.
