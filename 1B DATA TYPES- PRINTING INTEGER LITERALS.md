@@ -26,3 +26,5 @@ print(a,b,c)
 ![image](https://github.com/user-attachments/assets/2586886f-8d04-4d7b-b716-fe8937aa8097)
 
 ## RESULT
+
+Thus a Python program to print the following integer literals: 123, 456, 789 was executed and implemented successfully.
